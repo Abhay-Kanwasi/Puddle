@@ -79,7 +79,7 @@ Register and log in to manage your products, make purchases, and communicate wit
 Use the messaging system to facilitate direct communication between sellers and users.
 
 ## Contributing
-`We welcome contributions from the community! If you'd like to contribute to this project, please follow these steps:
+We welcome contributions from the community! If you'd like to contribute to this project, please follow these steps:
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and commit them with descriptive messages.
