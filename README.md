@@ -1,4 +1,4 @@
-﻿# Puddle_Online_Marketplace
+﻿# Puddle
 
 # Online Marketplace Project
 
