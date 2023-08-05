@@ -44,20 +44,32 @@ Welcome to the Online Marketplace Project! This project is a feature-rich online
 
 - Navigate to the project directory:
 
-> cd online-marketplace
+```bash
+cd online-marketplace
+```
 
 - Install project dependencies using pip:
-> pip install -r requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
 
 - Set up the MySQL database and configure the database settings in settings.py.
 Run migrations to create the necessary database tables:
-> python manage.py migrate
+```bash
+python manage.py migrate
+```
 
 - Create a superuser account to access the Django admin panel:
-> python manage.py createsuperuser
+```bash
+python manage.py createsuperuser
+```
 
 - Start the development server:
-> python manage.py runserver <br/>
+
+```bash
+python manage.py runserver <br/>
+```
 
 Access the application at http://localhost:8000 in your web browser.
 
