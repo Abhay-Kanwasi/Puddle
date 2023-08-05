@@ -81,13 +81,9 @@ WSGI_APPLICATION = 'puddle.wsgi.application'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'marketplace_data',
-        'USER': 'root',
-        'PASSWORD': 'Alex4617P',
-        'HOST': 'localhost',
-        'PORT': '3306',
+ 'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
 
