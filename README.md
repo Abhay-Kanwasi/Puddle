@@ -68,7 +68,7 @@ Run migrations to create the necessary database tables:
 - Start the development server:
 
    ```bash
-   python manage.py runserver <br/>
+   python manage.py runserver 
    ```
 
 Access the application at http://localhost:8000 in your web browser.
