@@ -1,6 +1,4 @@
-﻿# Puddle                                                                                                         [ -puddle means small pool ]
-
-# Online Marketplace Project                          
+# Puddle -  Online Marketplace Project                          
 
 Welcome to the Online Marketplace Project! This project is a feature-rich online marketplace developed using Python and the Django framework, with a robust MySQL database. It provides secure user authentication, seamless product management, efficient search functionality, and an intuitive messaging system for direct communication between sellers and users.
 
